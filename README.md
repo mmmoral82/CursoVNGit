@@ -1,1 +1,2 @@
 # CursoVNGit
+EDITO FICHERO README
